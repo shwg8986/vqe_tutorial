@@ -1,5 +1,5 @@
 # DockerとVSCodeでJupyter Notebook環境を構築する手順
-Dockerを使ってローカル環境を汚さず、Python環境でJupyter Notebookを実行する手順。
+Dockerを使ってローカル環境を汚さず、PythonのJupyter Notebook環境でVQEのtutorialを実行する手順。
 
 ---
 
