@@ -1,4 +1,4 @@
-# Dockerを使ってローカル環境を汚さず、PythonのJupyter Notebook環境でVQEのtutorialを実行する手順。
+# PythonのJupyter Notebook環境でVQEのtutorialを実行する手順。
 
 ---
 
